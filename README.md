@@ -1,0 +1,1 @@
+# blinktech-agri-app
